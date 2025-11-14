@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(touch:*)"
+      "Bash(touch:*)",
+      "Read(//c/Users/hariharank/AppData/Local/Programs/repos/Testing_Repo/9a27c719-ce30-4a00-b347-747359eb7de8/**)",
+      "Read(//c/Users/hariharank/AppData/Local/Programs/repos/**)",
+      "Bash(find:*)"
     ],
     "deny": [],
     "ask": []
